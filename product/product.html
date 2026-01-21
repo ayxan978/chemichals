@@ -95,7 +95,7 @@
 
         if (!productId) return;
 
-        fetch(`/product_${lang}.json`)
+        fetch(`/chemichals/product_${lang}.json`)
             .then(res => res.json())
             .then(data => {
                 const product = data.products.find(p => p.id === productId);

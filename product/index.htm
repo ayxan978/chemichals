@@ -92,7 +92,7 @@
 		});
 		function loadProducts() {
 			const lang = getCurrentLang();
-			const url = `/product_${lang}.json`;
+			const url = `/chemichals/product_${lang}.json`;
 
 			$.getJSON(url, function (data) {
 				allProducts = data.products || [];
