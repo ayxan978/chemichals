@@ -890,16 +890,16 @@ Uri: http://lekron.com/local/media/img/logo.png
 File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logo.png
 Content Type: image/png
 
-Uri: http://lekron.com/local/media/img/logo.svg
-File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logo.svg
+Uri: http://lekron.com/local/media/img/logo.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logo.png
 Content Type: image/svg+xml
 
 Uri: http://lekron.com/local/media/img/logodancecolor.svg
 File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logodancecolor.svg
 Content Type: image/svg+xml
 
-Uri: http://lekron.com/local/media/img/logowhite.svg
-File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logowhite.svg
+Uri: http://lekron.com/local/media/img/logo.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logo.png
 Content Type: image/svg+xml
 
 Uri: http://lekron.com/local/media/img/menuhead.svg
@@ -922,7 +922,7 @@ Uri: http://lekron.com/local/media/img/totop-icon.svg
 File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\totop-icon.svg
 Content Type: image/svg+xml
 
-Uri: http://lekron.com/local/media/img/watermark.png
+Uri: http://lekron.com//local/media/img/logo.png
 File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\watermark.png
 Content Type: image/png
 
