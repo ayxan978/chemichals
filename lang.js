@@ -4,7 +4,7 @@
 
 const LANG_KEY = 'site_lang';
 const DEFAULT_LANG = 'ru';
-const LANG_PATH = '/lang'; // папка с ru.json / en.json / kz.json
+const LANG_PATH = 'lang'; // папка с ru.json / en.json / kz.json
 
 let LANG_CACHE = {};
 
