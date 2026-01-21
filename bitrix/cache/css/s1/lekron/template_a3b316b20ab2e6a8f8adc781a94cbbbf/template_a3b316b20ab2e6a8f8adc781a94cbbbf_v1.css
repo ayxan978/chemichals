@@ -1,0 +1,56 @@
+
+
+/* Start:/local/templates/lekron/components/bitrix/breadcrumb/main/style.min.css?1703927633467*/
+.bx-breadcrumb{margin:10px 0}.bx-breadcrumb i{color:#b5bdc2;line-height:13px;font-size:12px;vertical-align:middle;margin-right:5px}.bx-breadcrumb .bx-breadcrumb-item{float:left;margin-bottom:10px;white-space:nowrap;line-height:13px;vertical-align:middle;margin-right:10px}.bx-breadcrumb .bx-breadcrumb-item span{font-family:"Open Sans",Arial,"Helvetica Neue",Helvetica,sans-serif;font-size:13px;white-space:normal}.bx-breadcrumb .bx-breadcrumb-item a{border-bottom:0}
+/* End */
+
+
+/* Start:/local/templates/lekron/template_styles.css?1728392386753*/
+div#modef {
+    display: none !important;
+}
+
+.onestory.left .onestoryin1{
+	left: -9999px;
+	transition: 1.5s;
+	position: relative;
+	opacity:0;
+}
+
+.onestory.right .onestoryin1{
+	left: 9999px;
+	transition: 1.5s;
+	position: relative;
+	opacity:0;
+}
+
+
+.onestory.left .onestoryin2{
+	left: -9999px;
+	transition: 1.5s;
+	opacity:0;
+}
+
+
+.onestory.right .onestoryin2{
+	left: 9999px;
+	transition: 1.5s;
+	opacity:0;
+
+}
+
+.onestory.active .onestoryin1,.onestory.active .onestoryin2
+{
+	left: 0 !important;
+	right: 0 !important;
+	opacity:1 !important;
+	width:100%
+}
+
+
+input[name=form_text_0004], form.jsformix input[name=sname] , form.jsformix input[name=goodforms_sname] {
+height: 0.1px;  width: 0.1px;  opacity: 0.03 ;	padding: 0px !important;	margin: 0px !important;
+}
+/* End */
+/* /local/templates/lekron/components/bitrix/breadcrumb/main/style.min.css?1703927633467 */
+/* /local/templates/lekron/template_styles.css?1728392386753 */

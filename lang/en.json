@@ -1,0 +1,901 @@
+{
+  "footer": {
+    "contact_title": "Contact us",
+    "phone_1": "+7 (985)075-75-38",
+    "phone_2": "+7 (707)102-57-25",
+    "email_1": "sale@kaz-chemicals.com",
+    "email_2": "kz@kaz-chemicals.com",
+    "about": "About the company",
+    "contacts": "Contacts",
+    "products": "Product selection",
+    "applications": "Areas of application",
+    "laboratory": "Laboratory",
+    "career": "Careers",
+    "copyright": "© KAZ CHEMICALS – supply of chemical raw materials, 2025",
+    "address1": "18, building 3, Miklukho-Maklaya St., Moscow, 117437, Russia",
+    "address2": "54A Syganak St., Business Center \"A\", office 255, Nur-Sultan, 010000, Kazakhstan."
+  },
+  "form": {
+    "title": "Contact us",
+    "name": "Full name *",
+    "company": "Company *",
+    "phone": "Phone *",
+    "email": "E-mail *",
+    "simple_name": "Enter your name",
+    "question": "Your question *",
+    "policy": "Privacy policy",
+    "policy2": "By clicking the button, you consent to the processing of your personal data and agree to ",
+    "submit": "Submit request"
+  },
+  "header": {
+    "menu": {
+      "products": "Product selection",
+      "applications": "Areas of application",
+      "acrylic": "Acrylic dispersions for coatings",
+      "cellulose": "Cellulose ethers (HPMC)",
+      "special": "Specialty additives",
+      "contacts": "Contacts",
+      "company": "Company",
+      "about": "About us",
+      "career": "Careers",
+      "laboratory": "Laboratory"
+    },
+    "lang": {
+      "ru": "RU",
+      "kz": "KZ",
+      "en": "EN"
+    },
+    "phone": "+7 (985)075-75-38",
+    "compare": "Compare"
+  },
+  "menuheads": {
+    "menu": {
+      "applications": "Areas of application",
+      "acrylic": "Acrylic dispersions for coatings",
+      "cellulose": "Cellulose ethers (HPMC)",
+      "special": "Specialty additives",
+      "company": "About the company",
+      "laboratory": "Laboratory",
+      "career": "Careers",
+      "contacts": "Contacts"
+    },
+    "banner": {
+      "title": "Product selection",
+      "desc": "Specialized materials by KAZ CHEMICALS",
+      "count": "50+"
+    },
+    "contacts": {
+      "phone": "+7 (985)075-75-38",
+      "email": "sale@kaz-chemicals.com",
+      "address": "18, building 3, Miklukho-Maklaya St., Moscow, 117437, Russia"
+    }
+  },
+  "mainHero": {
+    "title": "Manufacturing of chemical products for coatings and construction.",
+    "description": "KAZ CHEMICALS is a manufacturer and supplier of acrylic dispersions, cellulose ethers, and chemical additives.",
+    "button": {
+      "title": "Product selection",
+      "desc": "Specialized materials by KAZ CHEMICALS",
+      "count": "50+ items"
+    }
+  },
+  "productSlider": {
+    "title": "KAZ CHEMICALS Products",
+    "slides": {
+      "acrylic": {
+        "name": "Acrylic dispersions",
+        "desc": "Dispersions for interior and exterior paints, primers, impregnations, and specialized coatings.",
+        "nomenclature": "Product range",
+        "items": {
+          "item1": "Acrylic dispersion for exterior paints AD-45F",
+          "item2": "Acrylic dispersion for interior applications AD-30I",
+          "item3": "Copolymer dispersion for primers SD-20P"
+        },
+        "more": "Learn more"
+      },
+      "hpmc": {
+        "name": "Cellulose ethers (HPMC)",
+        "desc": "Methyl hydroxypropyl cellulose for construction mixes, adhesives, paints, and the food industry.",
+        "nomenclature": "Product range",
+        "items": {
+          "item1": "HPMC for construction mixes HPMC-100M",
+          "item2": "HPMC for adhesive formulations HPMC-60K",
+          "item3": "HPMC for paints HPMC-15L"
+        },
+        "more": "Learn more"
+      },
+      "additives": {
+        "name": "Specialty additives",
+        "desc": "Modifiers, thickeners, dispersants, and other additives to improve the properties of coatings.",
+        "nomenclature": "Product range",
+        "items": {
+          "item1": "Dispersant–wetting agent DD-101",
+          "item2": "Polyurethane-based thickener ZG-205",
+          "item3": "Rheology modifier MR-88"
+        },
+        "more": "Learn more"
+      }
+    },
+    "pagination": {
+      "one": "01",
+      "two": "02",
+      "three": "03"
+    }
+  },
+  "applicationSlider": {
+    "title": "Applications",
+    "slides": {
+      "coatings": {
+        "name": "Coatings and paints",
+        "desc": "Acrylic dispersions and additives for the production of high-quality paints, enamels, primers, and protective coatings for various surfaces.",
+        "more": "Learn more"
+      },
+      "building": {
+        "name": "Construction mixes",
+        "desc": "Cellulose ethers (HPMC) used as thickeners, water-retention agents, and adhesion-enhancing components for dry construction mixes, putties, and adhesives.",
+        "more": "Learn more"
+      },
+      "industrial": {
+        "name": "Industrial coatings",
+        "desc": "Specialized dispersions and additives for formulations requiring increased resistance to abrasion, chemicals, and weather conditions.",
+        "more": "Learn more"
+      },
+      "selection": {
+        "name": "Product selection",
+        "desc": "Specialized materials by KAZ CHEMICALS",
+        "more": "Learn more"
+      }
+    },
+    "pagination": {
+      "one": "01",
+      "two": "02",
+      "three": "03",
+      "four": "04"
+    },
+    "cta": {
+      "title": "Product selection",
+      "desc": "Polymer materials by KAZ CHEMICALS",
+      "count": "50+ items"
+    }
+  },
+  "aboutMain": {
+    "title": "About the company",
+    "name": "KAZ CHEMICALS",
+    "texts": {
+      "p1": "Manufacturer and supplier of raw materials for the coatings, construction, and chemical industries.",
+      "p2": "Operating since 2022. Main warehouses and the logistics center are located in Astana and the Moscow region.",
+      "p3": "The company specializes in the supply of high-quality acrylic dispersions, cellulose ethers (HPMC), and functional additives.",
+      "p4": "KAZ CHEMICALS has technical expertise to select products according to customer requirements and ensure consistent supply quality."
+    }
+  },
+  "statsMain": {
+    "shipments": {
+      "value": ">10,000 t",
+      "text": "of shipped products per year"
+    },
+    "specialProducts": {
+      "value": ">2,000 t",
+      "text": "of specialty products"
+    },
+    "investments": {
+      "value": ">300 million",
+      "text": "invested in logistics and warehouse capacity"
+    },
+    "specialists": {
+      "value": ">50",
+      "text": "qualified specialists"
+    },
+    "solutions": {
+      "value": ">100",
+      "text": "custom solutions for clients"
+    }
+  },
+  "featuresMain": {
+    "title": "Our features",
+    "items": {
+      "stability": {
+        "title": "Stability and reliability",
+        "desc": "In-house logistics and a well-established supply chain ensure uninterrupted deliveries and reliable partnerships.",
+        "num": "01"
+      },
+      "support": {
+        "title": "Technical support",
+        "desc": "Our laboratory and technical specialists are ready to assist with product selection, problem solving, and the development of custom solutions.",
+        "num": "02"
+      },
+      "custom": {
+        "title": "Customized approach",
+        "desc": "Ability to supply products according to customer technical specifications, with packaging in various formats.",
+        "num": "03"
+      },
+      "assortment": {
+        "title": "Wide product range",
+        "desc": "A wide selection of acrylic dispersions, HPMC grades, and functional additives available in stock and upon request.",
+        "num": "04"
+      },
+      "logistics": {
+        "title": "Advantageous logistics location",
+        "desc": "Optimal warehouse locations ensure fast delivery to key industrial regions.",
+        "num": "05"
+      }
+    }
+  },
+  "solutionsMain": {
+    "title": "Solutions for Complex Challenges",
+    "case1": {
+      "slides": {
+        "task": {
+          "label": "Task",
+          "title": "Development of a washable paint formulation",
+          "text": "The client required the development of a water-based paint formulation for children's facilities with increased resistance to abrasion and repeated washing."
+        },
+        "problem": {
+          "label": "Problem",
+          "title": "Development of a washable paint formulation",
+          "text": "Standard dispersions did not provide the required level of adhesion to the substrate and resistance to detergents after film formation."
+        },
+        "solution": {
+          "label": "Solution",
+          "title": "Development of a washable paint formulation",
+          "text": "KAZ CHEMICALS specialists proposed a combination of a special acrylic dispersion AD-75W with high hiding power and a modifying additive MA-12. An optimal formulation was selected, and the paint successfully passed all wet abrasion resistance tests."
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About KAZ CHEMICALS",
+      "text": "KAZ CHEMICALS is a reliable manufacturer and supplier of high-quality raw materials for the coatings, construction, and chemical industries. We specialize in the supply of acrylic dispersions, cellulose ethers (HPMC), and a wide range of functional additives. Our mission is to provide partners with products that enhance production efficiency and the quality of finished goods, combining innovation, stability, and technical expertise."
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "current": "About the company"
+    },
+    "cta": {
+      "title": "Product selection",
+      "desc": "Polymer materials by KAZ CHEMICALS",
+      "count": "40+ items"
+    },
+    "card": {
+      "title": "KAZ CHEMICALS",
+      "p1": "Manufacturer and supplier of raw materials for the coatings, construction, and chemical industries.",
+      "p2": "Operating since 2010. Main warehouses and the logistics center are located in (please specify your city/region).",
+      "p3": "The company specializes in the supply of high-quality acrylic dispersions, cellulose ethers (HPMC), and functional additives.",
+      "p4": "KAZ CHEMICALS has technical expertise to select products according to customer needs and ensure consistent supply quality."
+    },
+    "history": {
+      "title": "Company history",
+      "items": [
+        {
+          "year": "2022",
+          "text": "Establishment of KAZ CHEMICALS. Start of chemical raw material supplies to the local market."
+        },
+        {
+          "year": "2023",
+          "text": "Expansion of the product range by adding acrylic dispersions for coatings. Establishment of partnerships with the first major paint manufacturers."
+        },
+        {
+          "year": "2023",
+          "text": "Launch of cellulose ether (HPMC) supplies for the construction industry. Investments in warehouse capacity."
+        },
+        {
+          "year": "2023",
+          "text": "Development of a functional additives line (dispersants, thickeners, biocides). Formation of a complete product portfolio."
+        },
+        {
+          "year": "2023",
+          "text": "Creation of a technical department and laboratory for product testing and customer support."
+        },
+        {
+          "year": "2024",
+          "text": "Modernization of the logistics system. Expansion to nationwide supply operations."
+        },
+        {
+          "year": "2025",
+          "text": "Launch of a program for developing customized solutions and formulations tailored to key customer requests."
+        }
+      ]
+    },
+    "stats": {
+      "items": [
+        {
+          "value": ">10,000 t",
+          "label": "of shipped products per year"
+        },
+        {
+          "value": ">2,000 t",
+          "label": "of specialty products"
+        },
+        {
+          "value": ">300 million",
+          "label": "invested in logistics and warehouse capacity"
+        },
+        {
+          "value": ">50",
+          "label": "qualified specialists"
+        },
+        {
+          "value": ">100",
+          "label": "custom solutions for clients"
+        }
+      ]
+    },
+    "features": {
+      "title": "Our features",
+      "items": [
+        {
+          "title": "Stability and reliability",
+          "text": "In-house logistics and a well-established supply chain ensure uninterrupted deliveries and reliable partnerships.",
+          "num": "01"
+        },
+        {
+          "title": "Technical support",
+          "text": "Our laboratory and technical specialists are ready to assist with product selection, problem solving, and the development of custom solutions.",
+          "num": "02"
+        },
+        {
+          "title": "Customized approach",
+          "text": "Ability to supply products according to customer technical specifications, with packaging in various formats.",
+          "num": "03"
+        },
+        {
+          "title": "Wide product range",
+          "text": "A wide selection of acrylic dispersions, HPMC grades, and functional additives available in stock and upon request.",
+          "num": "04"
+        },
+        {
+          "title": "Advantageous logistics location",
+          "text": "Optimal warehouse locations ensure fast delivery to key industrial regions.",
+          "num": "05"
+        }
+      ]
+    }
+  },
+  "experience1": {
+    "hero": {
+      "title": "Acrylic dispersions for coatings"
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "current": "Applications"
+    },
+    "sections": {
+      "acrylic": {
+        "description": "KAZ CHEMICALS acrylic dispersions are the foundation for producing high-quality coating materials. They provide excellent adhesion, water resistance, UV resistance, and long-term durability. Used in the production of exterior and interior paints, primers, impregnations, and protective coatings.",
+        "more": "Learn more",
+        "applications": [
+          {
+            "title": "Exterior paints",
+            "text": "Acrylic dispersions give exterior paints resistance to weathering, abrasion, and contamination, ensuring long service life and color brightness."
+          },
+          {
+            "title": "Water-based interior paints",
+            "text": "Used to create environmentally friendly, fast-drying paints with good hiding power and resistance to wet abrasion."
+          },
+          {
+            "title": "Primers and impregnations",
+            "text": "Dispersions provide deep penetration, substrate reinforcement, and improved adhesion for subsequent finishing layers."
+          }
+        ]
+      },
+      "hpmc": {
+        "title": "Cellulose ethers (HPMC)",
+        "description": "Hydroxypropyl methylcellulose (HPMC) from KAZ CHEMICALS is an essential component in construction chemistry. It acts as a thickener, water-retention agent, and rheology modifier. It improves workability, prevents segregation, and increases adhesion.",
+        "more": "Learn more",
+        "applications": [
+          {
+            "title": "Dry construction mixes",
+            "text": "HPMC is used in tile adhesives, plasters, putties, and self-leveling floors to control viscosity and water absorption."
+          },
+          {
+            "title": "Adhesive formulations",
+            "text": "Provides adhesives with the required thixotropy, increases open time, and improves final bond strength."
+          },
+          {
+            "title": "Coatings and paints",
+            "text": "In paints, HPMC acts as a thickener and stabilizer, prevents splashing, and improves application properties."
+          }
+        ]
+      },
+      "additives": {
+        "title": "Specialty additives",
+        "description": "We offer a wide range of functional additives for coatings and construction mixes. Our products help solve specific tasks: from pigment dispersion and defoaming to providing special properties such as increased hydrophobicity or bioprotection.",
+        "more": "Learn more",
+        "applications": [
+          {
+            "title": "Dispersants and wetting agents",
+            "text": "Additives for uniform distribution of pigments and fillers in the system, improving tinting strength and coating stability."
+          },
+          {
+            "title": "Thickeners and rheology modifiers",
+            "text": "Control viscosity and material behavior during application, preventing sagging on vertical surfaces."
+          },
+          {
+            "title": "Biocidal additives",
+            "text": "Protect coatings and construction mixes from mold, fungi, and algae."
+          }
+        ]
+      }
+    },
+    "central_asia": {
+      "title": "KAZ CHEMICALS: A reliable partner for Central Asian industry",
+      "countries": [
+        {
+          "name": "KAZAKHSTAN: FOUNDATION OF THE NATIONAL INDUSTRY",
+          "subtitle": "Key supplier for Kazakhstan’s industrial sector",
+          "points": [
+            "Supplying raw materials to more than 30 major dry mix and coatings plants in Nur-Sultan, Almaty, Shymkent, and Aktobe.",
+            "Exclusive supplier of pharmacopoeial-grade HPMC for Chimpharm since 2020.",
+            "KAZ-SHIELD acrylic dispersions used in EXPO-2017 projects and the Nurly Zhol program.",
+            "Annual supplies exceed 25,000 tons of products."
+          ],
+          "quote": "Cooperation with KAZ CHEMICALS means production stability. Their logistics hub guarantees just-in-time deliveries."
+        },
+        {
+          "name": "KYRGYZSTAN: GROWING TOGETHER WITH THE MARKET",
+          "subtitle": "A quality driver for the growing construction market",
+          "points": [
+            "Market share of modifying additives reached 40% in 5 years.",
+            "Products certified for public procurement and infrastructure projects.",
+            "A network of 12 official distributors nationwide.",
+            "More than 50 technical seminars conducted for construction companies."
+          ],
+          "kpi": "Supply growth: +300% (2018–2023)"
+        },
+        {
+          "name": "TURKMENISTAN: A STANDARD FOR CRITICAL FACILITIES",
+          "subtitle": "Products for state-level projects",
+          "points": [
+            "HPMC and cellulose used in the construction of the city of Arkadag.",
+            "KAZ-RETARD dispersion developed specifically for the Karakum climate.",
+            "Direct long-term contracts with state corporations.",
+            "Full package of international and local certifications."
+          ],
+          "accent": "We supply not just chemicals, but a guarantee of durability for the country’s strategic projects."
+        }
+      ]
+    }
+  },
+  "experience2": {
+    "breadcrumbs": {
+      "home": "Home",
+      "section": "Applications",
+      "current": "Acrylic dispersions for coatings"
+    },
+    "hero": {
+      "title": "Acrylic dispersions for coatings",
+      "description": "KAZ CHEMICALS acrylic dispersions are high-quality water-based polymer systems that serve as the foundation for modern, environmentally friendly, and highly efficient coatings. They provide excellent adhesion to various surfaces and form a strong, elastic, and weather-resistant film. Our products are used in the production of paints, primers, impregnations, and protective coatings for the construction, industrial, and woodworking industries."
+    },
+    "cta": {
+      "title": "Product selection",
+      "subtitle": "Acrylic dispersions and additives by KAZ CHEMICALS",
+      "count": "20+ items"
+    },
+    "samples": {
+      "title": "Application examples",
+      "items": [
+        {
+          "title": "Exterior paints",
+          "description": "Our dispersions provide exterior paints with exceptional resistance to UV radiation, temperature fluctuations, moisture, and contamination. They ensure long-lasting coatings, preserving color and film integrity for many years. Ideal for projects with high climatic resistance requirements.",
+          "products": [
+            "Acrylic dispersion for facades AD-45F",
+            "Rheology modifier MR-88",
+            "Biocidal additive BD-05"
+          ]
+        },
+        {
+          "title": "Water-based interior paints",
+          "description": "KAZ CHEMICALS dispersions enable the production of low-VOC paints that are safe for health. They provide excellent hiding power, smooth application, good resistance to wet abrasion (wet cleaning), and fast drying. Suitable for residential, office, and public spaces.",
+          "products": [
+            "Acrylic dispersion for interior use AD-30I",
+            "Dispersant–wetting agent DD-101",
+            "Polyurethane-based thickener ZG-205"
+          ]
+        },
+        {
+          "title": "Primers and impregnations",
+          "description": "Special formulations based on our dispersions strengthen loose and friable substrates (plaster, concrete, drywall), bind dust, and significantly improve adhesion of finishing coatings. They reduce surface absorbency, allowing paint savings.",
+          "products": [
+            "Copolymer dispersion for primers SD-20P",
+            "Acrylic dispersion AD-25G"
+          ]
+        }
+      ]
+    }
+  },
+  "experience3": {
+    "breadcrumbs": {
+      "home": "Home",
+      "section": "Applications",
+      "current": "Cellulose ethers (HPMC)"
+    },
+    "hero": {
+      "title": "Cellulose ethers (HPMC) for construction and industry",
+      "description": "Hydroxypropyl methylcellulose (HPMC) by KAZ CHEMICALS is a highly efficient modifier indispensable in the production of dry construction mixes, coatings, adhesives, and food industry products. Our HPMC acts as a thickener, water-retention agent, stabilizer, and adhesion enhancer. It ensures good workability of mixes, prevents segregation, extends open time, and increases the final strength of products."
+    },
+    "cta": {
+      "title": "Product selection",
+      "subtitle": "Cellulose ethers and additives by KAZ CHEMICALS",
+      "count": "40+ items"
+    },
+    "samples": {
+      "title": "Application examples",
+      "items": [
+        {
+          "title": "Dry construction mixes",
+          "description": "HPMC is a key component in plasters, putties, tile adhesives, self-leveling floors, and masonry mortars. It regulates water demand, prevents rapid moisture evaporation (important for cement hydration), improves plasticity, and prevents sagging on vertical surfaces.",
+          "products": [
+            "HPMC for construction mixes HPMC-100M",
+            "HPMC for thin-layer systems HPMC-75T",
+            "HPMC for self-leveling floors HPMC-40F"
+          ]
+        },
+        {
+          "title": "Adhesive formulations",
+          "description": "In cement-, gypsum-, or PVA-based adhesives, HPMC provides thixotropy — easy application without dripping. It increases open time for tile or wallpaper adjustment, improves adhesion to substrates, and reduces the risk of void formation. Used in tile, wallpaper, and монтаж adhesives.",
+          "products": [
+            "HPMC for adhesive formulations HPMC-60K",
+            "Modified HPMC for heavy tiles HPMC-90H"
+          ]
+        },
+        {
+          "title": "Coatings and paints",
+          "description": "In water-dispersed paints and primers, HPMC functions as a thickener and stabilizer. It provides the required viscosity for brush or roller application, prevents splashing and pigment sedimentation, and improves paint leveling and consistency.",
+          "products": [
+            "HPMC for paints HPMC-15L",
+            "Copolymer dispersion for primers SD-20P"
+          ]
+        }
+      ]
+    }
+  },
+  "experience4": {
+    "breadcrumbs": {
+      "home": "Home",
+      "section": "Applications",
+      "current": "Specialty additives"
+    },
+    "hero": {
+      "title": "Specialty additives for coatings and construction mixes",
+      "description": "KAZ CHEMICALS offers a wide range of highly effective functional additives that address specific challenges in the production of coatings and construction mixes. Our products help improve manufacturing processes, formulation stability, and the final properties of finished products — from pigment dispersion and rheology control to bioprotection and enhanced performance characteristics."
+    },
+    "cta": {
+      "title": "Product selection",
+      "subtitle": "Functional additives by KAZ CHEMICALS",
+      "count": "40+ items"
+    },
+    "products": {
+      "title": "Products",
+      "items": [
+        {
+          "name": "Universal dispersant–wetting agent DD-101",
+          "description": "A multifunctional additive for efficient dispersion and wetting of pigments and fillers in water-based systems. Reduces dispersion time, increases color intensity and gloss, and prevents reflocculation."
+        }
+      ],
+      "compare": "Compare"
+    },
+    "samples": {
+      "title": "Examples",
+      "items": [
+        {
+          "title": "Dispersants and wetting agents",
+          "description": "Critically important at the paint and enamel production stage. Our DD-series additives ensure complete and uniform distribution of solid particles (pigments, fillers) in liquid media. This improves tinting strength, storage stability, gloss, and color uniformity. Used in the production of interior, exterior, and industrial paints.",
+          "products": [
+            "Dispersant–wetting agent DD-101",
+            "Dispersant for inorganic pigments DD-202"
+          ]
+        },
+        {
+          "title": "Thickeners and rheology",
+          "description": "ZG-series additives allow precise control of viscosity and rheological properties. They impart thixotropy to paints and construction mixes — the material does not drip from brushes or rollers and does not sag on vertical surfaces, yet remains easy to apply. They also prevent splashing and pigment sedimentation.",
+          "products": [
+            "Polyurethane-based thickener ZG-205",
+            "Rheology modifier for paints MR-88"
+          ]
+        },
+        {
+          "title": "Biocidal additives",
+          "description": "Protect water-based systems (paints, primers, construction mixes) from the growth of bacteria, fungi, and mold both during storage of the finished product and in the formed film or coating during service. Especially important for formulations used in high-humidity conditions.",
+          "products": [
+            "Broad-spectrum biocide BD-05",
+            "Preservative for construction mixes CS-10"
+          ]
+        }
+      ]
+    }
+  },
+  "contacts1": {
+    "breadcrumbs": {
+      "home": "Home",
+      "current": "Contacts"
+    },
+    "hero": {
+      "title": "Contacts"
+    },
+    "contacts": {
+      "address": {
+        "label": "Address",
+        "value": "18, building 3, Miklukho-Maklaya St., Moscow, 117437, Russia."
+      },
+      "phone": {
+        "label": "Phone",
+        "values": [
+          "+7 (985) 075-75-38",
+          "+7 (707) 102-57-25"
+        ]
+      },
+      "email": {
+        "label": "Email",
+        "values": [
+          "info@kaz-chemicals.com",
+          "kz@kaz-chemicals.com"
+        ]
+      }
+    },
+    "team": {
+      "title": "Our team",
+      "job": "Job title",
+      "departments": [
+        {
+          "id": 95,
+          "title": "Sales department",
+          "employees": [
+            {
+              "name": "Иванов Петр Сергеевич",
+              "position": "Head of Sales Department",
+              "email": "sale@kaz-chemicals.com",
+              "phone": "+7 (985) 075-75-38"
+            },
+            {
+              "name": "Сидорова Анна Владимировна",
+              "position": "Key Account Manager",
+              "email": "manager01@kaz-chemicals.com",
+              "phone": "+7 (985) 075-75-38"
+            },
+            {
+              "name": "Козлов Дмитрий Игоревич",
+              "position": "Regional Manager",
+              "email": "manager02@kaz-chemicals.com",
+              "phone": "+7 (985) 075-75-38"
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "title": "Procurement and logistics department",
+          "employees": [
+            {
+              "name": "Николаева Ольга Петровна",
+              "position": "Head of Procurement and Logistics",
+              "email": [
+                {
+                  "value": "procurement@kaz-chemicals.com",
+                  "note": "for supply inquiries"
+                },
+                {
+                  "value": "logist@kaz-chemicals.com",
+                  "note": "for shipping and delivery inquiries"
+                }
+              ],
+              "phone": "+7 (985) 075-75-38"
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "title": "Technical support and laboratory",
+          "employees": [
+            {
+              "name": "Смирнов Алексей Викторович",
+              "position": "Head of Technical Department",
+              "email": [
+                {
+                  "value": "tech@kaz-chemicals.com",
+                  "note": "for technical questions and formulation support"
+                }
+              ],
+              "phone": "+7 (985) 075-75-38"
+            }
+          ]
+        },
+        {
+          "id": 98,
+          "title": "Accounting and HR department",
+          "employees": [
+            {
+              "name": "Васнецова Елена Александровна",
+              "position": "Chief Accountant",
+              "email": [
+                {
+                  "value": "buh@kaz-chemicals.com",
+                  "note": "for documentation and invoicing inquiries"
+                }
+              ],
+              "phone": "+7 (985) 075-75-38"
+            },
+            {
+              "name": "Громова Татьяна Сергеевна",
+              "position": "HR Specialist",
+              "email": [
+                {
+                  "value": "hr@kaz-chemicals.com",
+                  "note": "for vacancies and employment inquiries"
+                }
+              ],
+              "phone": "+7 (985) 075-75-38"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "laboratory": {
+    "breadcrumbs": {
+      "home": "Home",
+      "current": "Laboratory and technical support"
+    },
+    "hero": {
+      "title": "Laboratory and technical support by KAZ CHEMICALS",
+      "description": "Our technical center is the foundation of KAZ CHEMICALS’ expertise and quality. We do not simply supply products — we ensure their full compliance with customer requirements and help solve complex technological challenges. The laboratory is equipped with modern equipment for raw material testing, quality control of finished products, and the development of customized solutions."
+    },
+    "goals": {
+      "title": "Goals and objectives",
+      "items": [
+        {
+          "number": "01",
+          "text": "Analysis of raw materials and components supplied for production"
+        },
+        {
+          "number": "02",
+          "text": "Analysis of new products presented on the market"
+        },
+        {
+          "number": "03",
+          "text": "Ongoing quality control of manufactured products"
+        },
+        {
+          "number": "04",
+          "text": "Development of new formulations or optimization of existing ones to meet specific customer requirements"
+        },
+        {
+          "number": "05",
+          "text": "Compatibility testing of materials within cable product structures"
+        },
+        {
+          "number": "06",
+          "text": "Conducting standard tests of polymer compounds and cables using these materials"
+        }
+      ]
+    },
+    "gallery": [
+      "Rectangle 21.jpg",
+      "Rectangle 22.jpg",
+      "Rectangle 24.jpg",
+      "Rectangle 22 (1).jpg"
+    ],
+    "research": {
+      "title": "List of conducted research and services",
+      "categories": [
+        {
+          "title": "Physical and mechanical testing",
+          "items": [
+            "Tensile strength determination",
+            "Measurement of elongation at break",
+            "Shore hardness testing (A, D)",
+            "Material density measurement"
+          ]
+        },
+        {
+          "title": "Rheological studies",
+          "items": [
+            "Evaluation of formulation thermal stability",
+            "Viscosity and thixotropy control",
+            "Melt flow index (MFI) determination"
+          ]
+        },
+        {
+          "title": "Analysis of dispersed systems",
+          "items": [
+            "Particle size distribution analysis (laser diffraction, sieve analysis)",
+            "Specific surface area measurement of powders",
+            "Oil absorption and moisture content determination",
+            "pH and electrical conductivity measurement of aqueous dispersions"
+          ]
+        },
+        {
+          "title": "Thermal and climatic analysis",
+          "items": [
+            "Assessment of material thermal stability",
+            "UV resistance testing",
+            "Cyclic temperature and humidity exposure tests",
+            "Brittleness temperature determination"
+          ]
+        },
+        {
+          "title": "Testing for coatings and construction mixes",
+          "items": [
+            "Measurement of hiding power and drying time of paints",
+            "Wet abrasion resistance testing",
+            "Adhesion evaluation of coatings to various substrates",
+            "Cracking and water resistance testing of construction compositions",
+            "Determination of pot life (working time) of mixes"
+          ]
+        },
+        {
+          "title": "Specialized analyses",
+          "items": [
+            "Biological resistance testing (mold and fungi exposure)",
+            "Chemical resistance testing to oils, solvents, and alkalis",
+            "Selection of pigment pastes and dispersion quality evaluation"
+          ]
+        }
+      ]
+    }
+  },
+  "productsPage": {
+    "breadcrumbs": {
+      "home": "Home",
+      "current": "Product selection"
+    },
+    "hero": {
+      "title": "Selection of cable polymer compositions",
+      "description": "KAZ CHEMICALS is a manufacturer and supplier of acrylic dispersions, cellulose ethers, and chemical additives."
+    },
+    "filters": {
+      "title": "Product filter",
+      "reset": "Reset filter",
+      "categories": {
+        "title": "Product category",
+        "items": [
+          "Acrylic dispersions",
+          "Cellulose ethers (HPMC)",
+          "Specialty additives"
+        ]
+      },
+      "applications": {
+        "title": "Application area",
+        "items": [
+          "Paints & coatings",
+          "Construction mixes",
+          "Industrial coatings",
+          "Primers and impregnations"
+        ]
+      },
+      "properties": {
+        "title": "Properties",
+        "items": [
+          "For interior use",
+          "For exterior use",
+          "Enhanced UV resistance",
+          "Frost resistance",
+          "High hiding power",
+          "Biocidal protection",
+          "Thixotropic",
+          "Fast drying",
+          "Low VOC",
+          "Water resistant",
+          "Enhanced adhesion"
+        ]
+      }
+    },
+    "sorting": {
+      "title": "Sorting",
+      "byNameAsc": "By name (A–Z)",
+      "byNameDesc": "By name (Z–A)"
+    },
+    "results": {
+      "found": "Products found:",
+      "empty": "No products found for the selected parameters. Try adjusting the filters."
+    },
+    "productCard": {
+      "compare": "Compare",
+      "details": "Details",
+      "removeCompare": "Remove from comparison"
+    },
+    "compare": {
+      "title": "Product comparison",
+      "empty": "Add products to compare",
+      "clear": "Clear comparison"
+    }
+  }
+}

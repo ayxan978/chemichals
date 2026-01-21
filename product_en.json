@@ -1,0 +1,1075 @@
+{
+  "filters": {
+    "main_direction": [
+      "Acrylic dispersions",
+      "Cellulose ethers (HPMC)",
+      "Specialty additives"
+    ],
+    "application_area": [
+      "Paints and coatings",
+      "Construction mixes",
+      "Adhesives",
+      "Primers and impregnations"
+    ],
+    "key_properties": [
+      "For interior applications",
+      "For exterior applications",
+      "Enhanced UV resistance",
+      "Frost resistance",
+      "High hiding power",
+      "Biocidal protection",
+      "Thixotropic",
+      "Fast drying",
+      "Low VOC content",
+      "Water resistant",
+      "Enhanced adhesion"
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "code": "AD-30I",
+      "name": "Acrylic dispersion for interior paints",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-30I is a universal acrylic dispersion for the production of high-quality water-based interior paints. It provides excellent hiding power, smooth application, and forms a durable matte film with good wet scrub resistance. An environmentally friendly product with low volatile organic compound (VOC) content.",
+      "characteristics": {
+        "Film hardness, Shore A": 45,
+        "Solids content, %": "50±2",
+        "Viscosity, mPa·s (23°C)": "1000–3000",
+        "pH": "7.5–9.0",
+        "Minimum film-forming temperature (MFFT), °C": 5,
+        "Hiding power (contrast ratio), %": ">98",
+        "Wet scrub resistance (GOST class)": 1,
+        "Drying time to touch, min": 30
+      },
+      "properties": [
+        "For interior applications",
+        "High hiding power",
+        "Low VOC content"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 2,
+      "code": "AD-45F",
+      "name": "Acrylic dispersion for exterior paints",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-45F is a highly weather-resistant acrylic dispersion developed for exterior paints and protective coatings. It exhibits exceptional resistance to UV radiation, temperature fluctuations, and moisture, ensuring long-term durability and color retention of façades.",
+      "characteristics": {
+        "Film hardness, Shore A": 55,
+        "Solids content, %": "50±2",
+        "Viscosity, mPa·s (23°C)": "1500–4000",
+        "pH": "8.0–9.5",
+        "Minimum film-forming temperature (MFFT), °C": 15,
+        "UV stability (quartz UV, 500 h), ΔE": "< 2.0",
+        "Water absorption of film after 24 h, %": "< 15",
+        "Water vapor permeability, mg/(m·h·Pa)": "≥ 0.05"
+      },
+      "properties": [
+        "For exterior applications",
+        "Enhanced UV resistance",
+        "Water resistant"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 3,
+      "code": "AD-25G",
+      "name": "Universal dispersion for deep-penetration primers",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-25G is a specialized dispersion for producing strengthening and adhesion-promoting deep-penetration primers. It effectively binds dust, reinforces weak substrates, and significantly improves adhesion of subsequent finishing layers.",
+      "characteristics": {
+        "Solids content, %": "40±2",
+        "Viscosity, mPa·s (23°C)": "50–500",
+        "pH": "7.0–8.5",
+        "Minimum film-forming temperature (MFFT), °C": 0,
+        "Penetration depth into cement mortar, mm": "≥ 5",
+        "Adhesion to concrete (pull-off), MPa": "≥ 1.5",
+        "Strengthening effect (on lime plaster)": "High"
+      },
+      "properties": [
+        "Enhanced adhesion"
+      ],
+      "application": [
+        "Primers and impregnations"
+      ]
+    },
+    {
+      "id": 4,
+      "code": "AD-60E",
+      "name": "Elastic dispersion for crack-resistant coatings",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-60E is a highly elastic acrylic dispersion for formulations requiring compensation of substrate movement. It is used in crack-resistant putties, sealants, and elastic paints for expansion joints and problematic surfaces.",
+      "characteristics": {
+        "Film hardness, Shore A": 30,
+        "Solids content, %": "55±2",
+        "Viscosity, mPa·s (23°C)": "2000–6000",
+        "pH": "8.0–9.0",
+        "Minimum film-forming temperature (MFFT), °C": 0,
+        "Elongation at break, %": "≥ 400",
+        "Tensile strength, MPa": "≥ 2.0",
+        "Residual deformation after stretching, %": "< 20"
+      },
+      "properties": [
+        "For interior applications",
+        "For exterior applications"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 5,
+      "code": "AD-75W",
+      "name": "Dispersion for washable paints",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-75W is a dispersion for producing paints with enhanced resistance to washing and abrasion. It forms a dense, durable film capable of withstanding repeated wet cleaning with detergents. Ideal for kitchens, bathrooms, and corridors.",
+      "characteristics": {
+        "Film hardness, Shore A": 65,
+        "Solids content, %": "48±2",
+        "Viscosity, mPa·s (23°C)": "2000–5000",
+        "pH": "8.5–9.5",
+        "Minimum film-forming temperature (MFFT), °C": 20,
+        "Wet scrub resistance (GOST class)": "1 (enhanced)",
+        "Resistance to soap-soda solution (20 cycles)": "No change",
+        "Hiding power, %": ">97"
+      },
+      "properties": [
+        "For interior applications",
+        "Water resistant"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    }, {
+      "id": 6,
+      "code": "AD-20M",
+      "name": "Matte dispersion for velvet-effect paints",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-20M is a specialized dispersion for producing paints with a deep matte or velvet effect. It provides a refined appearance of the coating, masks minor surface imperfections, and features very low light reflection.",
+      "characteristics": {
+        "Film hardness, Shore A": 40,
+        "Solids content, %": "52±2",
+        "Viscosity, mPa·s (23°C)": "3000–8000",
+        "pH": "7.5–8.5",
+        "Minimum film-forming temperature (MFFT), °C": 10,
+        "Gloss level at 60°, GU": "< 5 (deep matte)",
+        "Hiding power, %": ">99",
+        "Flow and leveling": "Excellent"
+      },
+      "properties": [
+        "For interior applications",
+        "High hiding power"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 7,
+      "code": "AD-85G",
+      "name": "Gloss-effect dispersion",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-85G is a dispersion designed for the production of high- and medium-gloss paints. It forms a smooth, dense film with rich color and excellent light reflectance. Easy to clean.",
+      "characteristics": {
+        "Film hardness, Shore A": 70,
+        "Solids content, %": "45±2",
+        "Viscosity, mPa·s (23°C)": "1000–3000",
+        "pH": "8.0–9.0",
+        "Minimum film-forming temperature (MFFT), °C": 25,
+        "Gloss level at 60°, GU": ">85 (high gloss)",
+        "Flow and leveling": "Excellent",
+        "Dirt resistance": "High"
+      },
+      "properties": [
+        "For interior applications",
+        "Water resistant"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 8,
+      "code": "AD-15T",
+      "name": "Thixotropic dispersion for vertical surfaces",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-15T is a thixotropic dispersion that prevents sagging on vertical surfaces. It allows increased layer thickness without runs and is ideal for textured paints, anti-rust coatings, and formulations for uneven substrates.",
+      "characteristics": {
+        "Solids content, %": "55±2",
+        "Viscosity at low shear rates, mPa·s": ">10000",
+        "Thixotropic index (10 rpm / 100 rpm)": ">3.5",
+        "pH": "8.0–9.0",
+        "Minimum film-forming temperature (MFFT), °C": 12,
+        "Maximum sag-free layer thickness, mm": "≥1.5",
+        "Sag resistance": "Excellent"
+      },
+      "properties": [
+        "Thixotropic"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 9,
+      "code": "AD-50R",
+      "name": "Fast-drying dispersion",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-50R is a dispersion with accelerated drying time. It reduces technological pauses between coats and increases productivity. Suitable for fast-repair systems and application at reduced temperatures.",
+      "characteristics": {
+        "Solids content, %": "50±2",
+        "Viscosity, mPa·s (23°C)": "800–2000",
+        "pH": "8.5–9.5",
+        "Minimum film-forming temperature (MFFT), °C": 18,
+        "Drying time to touch at 23°C, min": "≤15",
+        "Recoating time, min": "≤60",
+        "Application temperature range, °C": "from +5"
+      },
+      "properties": [
+        "Fast drying"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 10,
+      "code": "AD-90S",
+      "name": "Super frost-resistant dispersion",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-90S is a specialized dispersion with an extremely low film-forming temperature. It maintains elasticity and adhesion at very low temperatures and is intended for paints and protective coatings in cold climates, cold-storage facilities, and outdoor structures.",
+      "characteristics": {
+        "Film hardness, Shore A": 35,
+        "Solids content, %": "50±2",
+        "Viscosity, mPa·s (23°C)": "1500–4000",
+        "pH": "7.5–8.5",
+        "Minimum film-forming temperature (MFFT), °C": -10,
+        "Film brittleness temperature, °C": "≤ -40",
+        "Adhesion after 10 freeze–thaw cycles": "No loss",
+        "Flexibility on mandrel at -25°C, mm": "≤2"
+      },
+      "properties": [
+        "For exterior applications",
+        "Frost resistance"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 11,
+      "code": "AD-65B",
+      "name": "Dispersion with biocidal protection",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-65B is a dispersion containing biocidal components to protect coatings from mold, algae, and fungal growth. Recommended for humid areas, north-facing façades, and food-industry facilities.",
+      "characteristics": {
+        "Solids content, %": "48±2",
+        "Viscosity, mPa·s (23°C)": "2000–5000",
+        "pH": "8.0–9.0",
+        "Minimum film-forming temperature (MFFT), °C": 15,
+        "Effectiveness against Aspergillus niger (28 days)": "Complete inhibition",
+        "Resistance to biocide leaching": "High",
+        "Water absorption, %": "<10"
+      },
+      "properties": [
+        "Biocidal protection",
+        "Water resistant"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Primers and impregnations"
+      ]
+    },
+    {
+      "id": 12,
+      "code": "AD-55V",
+      "name": "Low-VOC dispersion",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-55V is an environmentally friendly dispersion with ultra-low volatile organic compound content (<5 g/L). It complies with strict environmental standards (ECOLABEL, Blue Angel) and is intended for green paints used in childcare, healthcare facilities, and eco-friendly projects.",
+      "characteristics": {
+        "Solids content, %": "50±2",
+        "Viscosity, mPa·s (23°C)": "1000–3000",
+        "pH": "7.0–8.0",
+        "Minimum film-forming temperature (MFFT), °C": 10,
+        "VOC content, g/L": "<5",
+        "Odor": "Practically neutral",
+        "Emission class": "M1 / A+"
+      },
+      "properties": [
+        "For interior applications",
+        "Low VOC content"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 13,
+      "code": "AD-70A",
+      "name": "High-adhesion dispersion",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-70A is a dispersion with a modified chemical structure providing outstanding adhesion to difficult substrates such as plastics (PVC, polypropylene), metals (including galvanized steel), glass, and old glossy coatings.",
+      "characteristics": {
+        "Solids content, %": "52±2",
+        "Viscosity, mPa·s (23°C)": "1500–4000",
+        "pH": "7.5–8.5",
+        "Minimum film-forming temperature (MFFT), °C": 20,
+        "Adhesion to PVC (cross-cut test), rating": 0,
+        "Adhesion to galvanized steel (pull-off), MPa": "≥3.0",
+        "Adhesion to polypropylene, rating": 1
+      },
+      "properties": [
+        "Enhanced adhesion"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Primers and impregnations"
+      ]
+    },
+    {
+      "id": 14,
+      "code": "AD-10C",
+      "name": "Concentrated dispersion",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-10C is a highly concentrated acrylic dispersion (solids content approx. 65%). It reduces transportation and storage costs and serves as an economical base for producing a wide range of paints and coatings with adjustable properties after dilution.",
+      "characteristics": {
+        "Solids content, %": "65±2",
+        "Viscosity, mPa·s (23°C)": "5000–15000",
+        "pH": "8.0–9.0",
+        "Minimum film-forming temperature (MFFT), °C": 25,
+        "Minimum transport/storage temperature, °C": "+5",
+        "Compatibility with water and other dispersions": "Excellent"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 15,
+      "code": "AD-80P",
+      "name": "Dispersion for protective and decorative wood impregnations",
+      "category": "Acrylic dispersions",
+      "description": "KAZ CHEMICALS AD-80P is a dispersion specifically developed for wood impregnations and stains. It penetrates deeply into the wood structure, enhances grain appearance, and provides protection against moisture, UV radiation, and biological damage while preserving breathability.",
+      "characteristics": {
+        "Solids content, %": "35±2",
+        "Viscosity, mPa·s (23°C)": "20–100",
+        "pH": "7.0–8.0",
+        "Minimum film-forming temperature (MFFT), °C": 0,
+        "Penetration into pine wood, mm": "≥3",
+        "Water repellency (contact angle), °": ">90",
+        "UV protection for wood": "Effective"
+      },
+      "properties": [
+        "For exterior applications",
+        "Enhanced UV resistance",
+        "Water resistant"
+      ],
+      "application": [
+        "Primers and impregnations",
+        "Paints and coatings"
+      ]
+    },  {
+      "id": 16,
+      "code": "HPMC-100M",
+      "name": "HPMC for general-purpose construction mixes",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-100M is a medium-viscosity hydroxypropyl methylcellulose used as a universal thickener and water-retention agent for plasters, putties, and masonry mortars. It provides good workability and prevents segregation.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 100000,
+        "Gelation temperature, °C": "60–70",
+        "Methoxy content, %": "28.0–30.0",
+        "Hydroxypropyl content, %": "7.0–12.0",
+        "Moisture, %": "≤5.0",
+        "Ash content, %": "≤1.5",
+        "pH (1% aqueous solution)": "6.0–8.0",
+        "Hydration time, min": "10–20"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 17,
+      "code": "HPMC-75T",
+      "name": "HPMC for thin-layer formulations",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-75T is a medium-viscosity HPMC optimized for thin-layer plasters, putties, and tile adhesives. It provides high plasticity, improved application, and prevents sagging on vertical surfaces.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 75000,
+        "Gelation temperature, °C": "65–75",
+        "Methoxy content, %": "28.5–30.0",
+        "Hydroxypropyl content, %": "7.5–12.0",
+        "Moisture, %": "≤5.0",
+        "Thixotropy": "Pronounced",
+        "Open time, min": "40–60"
+      },
+      "properties": [
+        "Thixotropic"
+      ],
+      "application": [
+        "Construction mixes",
+        "Adhesives"
+      ]
+    },
+    {
+      "id": 18,
+      "code": "HPMC-40F",
+      "name": "HPMC for self-leveling floors",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-40F is a low-viscosity HPMC for self-leveling compounds. It controls viscosity and rheology, ensures good flow without filler sedimentation, and forms a smooth surface.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 40000,
+        "Gelation temperature, °C": "60–70",
+        "Methoxy content, %": "19.0–24.0",
+        "Hydroxypropyl content, %": "4.0–12.0",
+        "Moisture, %": "≤5.0",
+        "Effect on flowability": "Improves",
+        "Sedimentation resistance": "High"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 19,
+      "code": "HPMC-60K",
+      "name": "HPMC for adhesive formulations",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-60K is designed for dry construction adhesives (tile adhesives, block adhesives, mounting adhesives). It provides extended open time, good thixotropy, enhanced adhesion, and ease of application.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 60000,
+        "Gelation temperature, °C": "60–70",
+        "Methoxy content, %": "28.0–30.0",
+        "Hydroxypropyl content, %": "7.0–12.0",
+        "Moisture, %": "≤5.0",
+        "Open adjustment time, min": "15–25",
+        "Adhesion to substrate": "Enhanced"
+      },
+      "properties": [
+        "Enhanced adhesion"
+      ],
+      "application": [
+        "Adhesives"
+      ]
+    },
+    {
+      "id": 20,
+      "code": "HPMC-90H",
+      "name": "Modified HPMC for heavy tiles and stone",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-90H is a high-viscosity modified HPMC for adhesives intended for large-format porcelain tiles and natural stone. It provides high load-bearing capacity, strong bond strength, and prevents tile slippage.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 90000,
+        "Gelation temperature, °C": "65–75",
+        "Methoxy content, %": "28.5–30.0",
+        "Hydroxypropyl content, %": "7.5–12.0",
+        "Moisture, %": "≤5.0",
+        "Tensile adhesion strength after 28 days, MPa": "≥1.2",
+        "Slip resistance (>20×20 cm tiles), mm": 0
+      },
+      "properties": [],
+      "application": [
+        "Adhesives"
+      ]
+    },
+    {
+      "id": 21,
+      "code": "HPMC-15L",
+      "name": "HPMC for paints and coatings",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-15L is a low-viscosity HPMC used as a thickener and stabilizer in water-dispersed paints and primers. It provides the required consistency, prevents spattering, and inhibits pigment sedimentation.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 15000,
+        "Gelation temperature, °C": "60–70",
+        "Methoxy content, %": "28.0–30.0",
+        "Hydroxypropyl content, %": "7.0–12.0",
+        "Moisture, %": "≤5.0",
+        "Compatibility with pigment systems": "Excellent",
+        "Effect on gloss": "Minimal"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 22,
+      "code": "HPMC-120S",
+      "name": "HPMC for delayed water absorption systems",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-120S features extended hydration time and delayed water absorption. It is intended for hot climates or highly absorbent substrates and helps maintain workability for longer periods.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 120000,
+        "Gelation temperature, °C": "65–75",
+        "Complete hydration time, min": "25–40",
+        "Moisture, %": "≤5.0",
+        "Working time under hot conditions (+35°C)": "Extended",
+        "Resistance to rapid dehydration": "High"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 23,
+      "code": "HPMC-50R",
+      "name": "Fast-dissolving HPMC",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-50R is a modified fast-dissolving HPMC that does not form lumps when mixed with water. It accelerates mortar preparation and simplifies production processes.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 50000,
+        "Gelation temperature, °C": "60–70",
+        "Dispersion time (lump-free dissolution), s": "<30",
+        "Moisture, %": "≤5.0",
+        "pH (1% aqueous solution)": "6.0–8.0"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 24,
+      "code": "HPMC-200H",
+      "name": "High-viscosity HPMC",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-200H is a high-viscosity HPMC for systems requiring exceptional water retention and thixotropy. It is used in thick paste-like putties, repair compounds, and joint grouts.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 200000,
+        "Gelation temperature, °C": "65–75",
+        "Methoxy content, %": "28.5–30.0",
+        "Moisture, %": "≤5.0",
+        "Water retention capacity, %": "Very high",
+        "Thixotropic index": "High"
+      },
+      "properties": [
+        "Thixotropic"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 25,
+      "code": "HPMC-25D",
+      "name": "HPMC for decorative plasters",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-25D is optimized for textured decorative plasters (\"bark beetle\", \"pebble finish\"). It provides good plasticity, retains fillers, and enables easy texture formation.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 25000,
+        "Gelation temperature, °C": "60–70",
+        "Methoxy content, %": "28.0–30.0",
+        "Moisture, %": "≤5.0",
+        "Effect on aggregate retention": "Effective",
+        "Plasticity during finishing": "Excellent"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },{
+      "id": 26,
+      "code": "HPMC-80C",
+      "name": "HPMC for masonry and mounting mortars",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-80C is intended for mortars requiring high water retention and good workability. It improves adhesion to bricks and blocks and prevents premature dehydration.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 80000,
+        "Gelation temperature, °C": "65–75",
+        "Methoxy content, %": "28.0–30.0",
+        "Moisture, %": "≤5.0",
+        "Water retention capacity, %": "≥98",
+        "Adhesion to ceramic brick": "High"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 27,
+      "code": "HPMC-55W",
+      "name": "HPMC with enhanced water retention",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-55W is modified to provide extremely high water retention. It is intended for highly porous substrates such as aerated concrete and for application under low ambient humidity conditions.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 55000,
+        "Gelation temperature, °C": "60–70",
+        "Water retention capacity, %": "≥99",
+        "Moisture, %": "≤5.0",
+        "Effectiveness on cellular concrete": "Maximum"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 28,
+      "code": "HPMC-30G",
+      "name": "HPMC for gypsum-based systems",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-30G is compatible with gypsum binders. It delays gypsum setting, improves plasticity, and prevents segregation in gypsum plasters and putties.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 30000,
+        "Gelation temperature, °C": "60–70",
+        "Moisture, %": "≤5.0",
+        "Effect on gypsum working time": "Extended",
+        "Compatibility with gypsum": "Full",
+        "Setting delay effect": "Effective"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 29,
+      "code": "HPMC-65P",
+      "name": "HPMC for foamed concrete mixes",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-65P stabilizes foam in foamed concrete mixtures. It promotes uniform porous structure formation and prevents settling and collapse of air bubbles.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 65000,
+        "Gelation temperature, °C": "60–70",
+        "Moisture, %": "≤5.0",
+        "Foam stabilization": "High",
+        "Effect on foamed concrete density": "Stabilizes"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 30,
+      "code": "HPMC-110F",
+      "name": "HPMC for exterior plasters and putties",
+      "category": "Cellulose ethers (HPMC)",
+      "description": "KAZ CHEMICALS HPMC-110F is a high-viscosity HPMC for exterior thin- and thick-layer systems. It provides improved crack resistance, good thixotropy, and effective water retention for outdoor applications.",
+      "characteristics": {
+        "Viscosity (2% solution, 20°C), mPa·s": 110000,
+        "Gelation temperature, °C": "65–75",
+        "Moisture, %": "≤5.0",
+        "Crack resistance (plastic shrinkage)": "Improved",
+        "Water resistance of coating": "Enhanced"
+      },
+      "properties": [
+        "For exterior applications",
+        "Water resistant"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 31,
+      "code": "DD-101",
+      "name": "Universal dispersing and wetting agent DD-101",
+      "category": "Specialty additives",
+      "description": "DD-101 is a polycarboxylate-based surfactant designed for efficient dispersion and wetting of inorganic pigments (titanium dioxide, iron oxides, talc, calcium carbonate) and fillers in water-based paints and construction mixes. It reduces dispersion time and improves color strength and storage stability.",
+      "characteristics": {
+        "Appearance": "Clear or slightly opalescent liquid",
+        "Active substance, %": "40±2",
+        "pH (10% aqueous solution)": "7.0–8.5",
+        "Density at 20°C, g/cm³": "~1.1",
+        "Viscosity at 25°C, mPa·s": "100–300",
+        "Solubility": "Completely soluble in water"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings",
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 32,
+      "code": "DD-202",
+      "name": "Dispersant for organic pigments DD-202",
+      "category": "Specialty additives",
+      "description": "DD-202 is a specialized dispersant for organic pigments (phthalocyanines, azo pigments) and carbon black in water-based coating systems. It features high adsorption capacity and prevents reflocculation and pigment sedimentation, ensuring bright and clean shades.",
+      "characteristics": {
+        "Appearance": "Yellowish or brownish liquid",
+        "Active substance, %": "35±2",
+        "pH (10% aqueous solution)": "8.0–9.5",
+        "Density at 20°C, g/cm³": "~1.05",
+        "Ionic type": "Anionic / non-ionic",
+        "Solubility": "Soluble in water and water-alcohol mixtures"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 33,
+      "code": "ZG-205",
+      "name": "Polyurethane-based thickener ZG-205",
+      "category": "Specialty additives",
+      "description": "ZG-205 is a non-ionic associative polyurethane (HEUR) thickener for water-dispersed paints and enamels. It provides strong pseudoplastic rheology (thixotropy), excellent flow and leveling, and prevents spattering and sagging on vertical surfaces.",
+      "characteristics": {
+        "Appearance": "Milky white viscous liquid",
+        "Active substance, %": "20±1",
+        "pH (neat product)": "6.0–7.5",
+        "Density at 20°C, g/cm³": "~1.05",
+        "Intrinsic viscosity, mPa·s": "2000–5000"
+      },
+      "properties": [
+        "Thixotropic",
+        "Water resistant"
+      ],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 34,
+      "code": "MR-88",
+      "name": "Rheology modifier MR-88",
+      "category": "Specialty additives",
+      "description": "MR-88 is a universal rheology modifier for construction mixes (plasters, putties, self-leveling floors) based on cellulose ethers. It ensures optimal water absorption, workability, extends open time, and prevents segregation.",
+      "characteristics": {
+        "Appearance": "Light beige powder",
+        "Viscosity (2% aqueous solution), mPa·s": "80000–120000",
+        "Moisture, %": "≤5.0",
+        "Gelation temperature, °C": "60–65",
+        "pH (2% aqueous solution)": "6.0–8.0",
+        "Ash content, %": "≤2.5"
+      },
+      "properties": [
+        "Enhanced adhesion"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 35,
+      "code": "BD-05",
+      "name": "Broad-spectrum biocide BD-05",
+      "category": "Specialty additives",
+      "description": "BD-05 is a combined isothiazolinone-based biocide for protecting water-based paints, adhesives, and construction mixes against bacteria, yeasts, and molds both in-can and in the dry film after application.",
+      "characteristics": {
+        "Appearance": "Clear greenish liquid",
+        "Active substance (CMIT/MIT), %": "1.5 / 15.0",
+        "Density at 20°C, g/cm³": "~1.02",
+        "pH": "2.0–5.0",
+        "Solubility": "Completely soluble in water",
+        "Freezing point, °C": "~ -5"
+      },
+      "properties": [
+        "Biocidal protection"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Adhesives",
+        "Construction mixes"
+      ]
+    },  {
+      "id": 36,
+      "code": "CS-10",
+      "name": "Preservative for construction mixes CS-10",
+      "category": "Specialty additives",
+      "description": "CS-10 is an effective bronopol-based preservative for protecting water-based dry construction mixes against microbiological spoilage during storage and after mixing with water. It is active against bacteria and fungi and increases product shelf life.",
+      "characteristics": {
+        "Appearance": "White or light gray powder",
+        "Active substance (bronopol), %": "≥95",
+        "Moisture, %": "≤1.0",
+        "Melting point, °C": "130–135",
+        "Solubility in water at 20°C, g/L": "~250",
+        "pH (1% aqueous solution)": "5.5–7.0"
+      },
+      "properties": [
+        "Biocidal protection"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 37,
+      "code": "AF-15",
+      "name": "Antifreeze additive AF-15",
+      "category": "Specialty additives",
+      "description": "AF-15 is a glycol-based antifreeze additive for water-based paints and construction mixes, allowing application at reduced temperatures (down to −5°C). It lowers the freezing point of the aqueous phase, preventing emulsion damage and ensuring proper film formation.",
+      "characteristics": {
+        "Appearance": "Colorless transparent liquid",
+        "Main component": "Propylene glycol",
+        "Main component content, %": "≥99.5",
+        "Density at 20°C, g/cm³": "1.035–1.040",
+        "Boiling point, °C": "~188",
+        "Freezing point (neat product), °C": -60
+      },
+      "properties": [
+        "Frost resistance"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 38,
+      "code": "WR-20",
+      "name": "Water-reducing plasticizer WR-20",
+      "category": "Specialty additives",
+      "description": "WR-20 is a new-generation superplasticizer based on polycarboxylate polymers for cement-based construction mixes. It significantly reduces water demand (up to 25%), increasing strength, density, and frost resistance without loss of workability.",
+      "characteristics": {
+        "Appearance": "Brown liquid",
+        "Solids content, %": "35±2",
+        "Density at 20°C, g/cm³": "1.08–1.12",
+        "pH": "6.0–8.0",
+        "Chloride ions (Cl−), %": "≤0.1",
+        "Alkali metals (Na₂O eq.), %": "≤3.0"
+      },
+      "properties": [
+        "Frost resistance"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 39,
+      "code": "PA-30",
+      "name": "Foaming additive PA-30",
+      "category": "Specialty additives",
+      "description": "PA-30 is a foaming additive based on proteins and synthetic surfactants for producing lightweight cellular concretes (foam concrete, aerated concrete) and thermal plasters. It обеспечивает stable, uniform closed-cell porous structure with low density.",
+      "characteristics": {
+        "Appearance": "Brown liquid",
+        "Solids content, %": "30±2",
+        "Density at 20°C, g/cm³": "~1.05",
+        "pH": "6.5–7.5",
+        "Foaming ratio": "≥15",
+        "Foam stability (1 h), %": "≥90"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 40,
+      "code": "AP-25",
+      "name": "Flame-retardant additive AP-25",
+      "category": "Specialty additives",
+      "description": "AP-25 is a fire-retardant additive based on phosphorus–nitrogen compounds for water-based paints, varnishes, and coatings. Upon heating, it forms an inert expanded carbonaceous layer that insulates the surface from heat and oxygen, slowing flame propagation.",
+      "characteristics": {
+        "Appearance": "White powder",
+        "Phosphorus (P), %": "≥18",
+        "Nitrogen (N), %": "≥25",
+        "Moisture, %": "≤1.0",
+        "Decomposition temperature, °C": ">250",
+        "pH (10% aqueous suspension)": "6.0–7.5"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 41,
+      "code": "AC-40",
+      "name": "Anticorrosive additive AC-40",
+      "category": "Specialty additives",
+      "description": "AC-40 is a pigmentary anticorrosive additive based on zinc phosphate for primers and paints applied to ferrous metals. It passivates the metal surface by forming an insoluble protective layer and acts as a cathodic corrosion inhibitor.",
+      "characteristics": {
+        "Appearance": "White fine powder",
+        "Zinc phosphate content (Zn₃(PO₄)₂), %": "≥96",
+        "Moisture, %": "≤0.5",
+        "Specific surface area (BET), m²/g": "8–12",
+        "pH (10% aqueous suspension)": "6.5–7.5",
+        "Residue on 45 μm sieve, %": "≤0.5"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings",
+        "Primers and impregnations"
+      ]
+    },
+    {
+      "id": 42,
+      "code": "UV-50",
+      "name": "UV stabilizer UV-50",
+      "category": "Specialty additives",
+      "description": "UV-50 is a combined light stabilizer (HALS + UV absorber) for polymer materials, paints and coatings, and construction mixes exposed to solar radiation. It slows photo-oxidative degradation, preventing yellowing, cracking, and loss of mechanical properties.",
+      "characteristics": {
+        "Appearance": "Light yellow powder",
+        "Moisture, %": "≤0.5",
+        "Melting point, °C": ">120",
+        "Solubility in toluene, %": "≥99",
+        "HALS content, %": "≥95",
+        "UV absorber content, %": "≥20"
+      },
+      "properties": [
+        "Enhanced UV resistance"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 43,
+      "code": "OE-60",
+      "name": "Defoamer OE-60",
+      "category": "Specialty additives",
+      "description": "OE-60 is a silicone-based defoamer for water-based systems (paints, adhesives, construction mixes). It efficiently destroys existing foam and prevents its reformation during production, application, and service life.",
+      "characteristics": {
+        "Appearance": "White emulsion",
+        "Active substance, %": "20±2",
+        "Density at 20°C, g/cm³": "~1.00",
+        "pH": "6.0–7.0",
+        "Viscosity at 25°C, mPa·s": "500–1500",
+        "Ionic type": "Non-ionic"
+      },
+      "properties": [],
+      "application": [
+        "Paints and coatings",
+        "Adhesives",
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 44,
+      "code": "AD-70",
+      "name": "Adhesion promoter AD-70",
+      "category": "Specialty additives",
+      "description": "AD-70 is a silane-based adhesion promoter with functional groups for improving adhesion of coatings (paints, primers, adhesives) to difficult non-absorbent substrates such as glass, metal, plastics (PVC, polycarbonate), and glazed ceramics.",
+      "characteristics": {
+        "Appearance": "Colorless transparent liquid",
+        "Active substance (amino-functional silane), %": "≥98",
+        "Density at 20°C, g/cm³": "0.94–0.96",
+        "Boiling point, °C": "~220",
+        "Water solubility": "Reactive with water"
+      },
+      "properties": [
+        "Enhanced adhesion"
+      ],
+      "application": [
+        "Paints and coatings",
+        "Primers and impregnations",
+        "Adhesives"
+      ]
+    },
+    {
+      "id": 45,
+      "code": "EL-80",
+      "name": "Elasticizing plasticizer EL-80",
+      "category": "Specialty additives",
+      "description": "EL-80 is a redispersible polymer powder (vinyl acetate–ethylene copolymer) for cement-based construction mixes. It improves elasticity, impact resistance, and adhesion, reduces modulus of elasticity, and minimizes crack formation.",
+      "characteristics": {
+        "Appearance": "White powder",
+        "Moisture, %": "≤1.0",
+        "Ash content, %": "12±2",
+        "Glass transition temperature (Tg), °C": "~0",
+        "Bulk density, g/L": "400–500",
+        "pH (10% aqueous dispersion)": "7.0–9.0"
+      },
+      "properties": [
+        "Enhanced adhesion"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 46,
+      "code": "SH-90",
+      "name": "Hydrophobic additive SH-90",
+      "category": "Specialty additives",
+      "description": "SH-90 is a silicone-based hydrophobic additive formulated with silanes and siloxanes to impart water-repellent properties to construction materials such as concrete, brick, plaster, and wood. It reduces water absorption and improves frost resistance and biological durability.",
+      "characteristics": {
+        "Appearance": "Clear liquid",
+        "Solids content, %": "≥40",
+        "Density at 20°C, g/cm³": "0.95–0.98",
+        "pH": "4.5–5.5",
+        "Silicone base": "Alkylsilane / siloxane",
+        "Solubility": "Soluble in organic solvents"
+      },
+      "properties": [
+        "Water resistant",
+        "Frost resistance"
+      ],
+      "application": [
+        "Construction mixes",
+        "Primers and impregnations"
+      ]
+    },
+    {
+      "id": 47,
+      "code": "AB-55",
+      "name": "Abrasion-resistant additive AB-55",
+      "category": "Specialty additives",
+      "description": "AB-55 is an additive based on finely dispersed quartz and corundum for improving wear resistance and hardness of self-leveling floors, industrial coatings, and protective layers. It increases resistance to abrasion, scratching, and impact loads.",
+      "characteristics": {
+        "Appearance": "Gray or white powder",
+        "Base material": "Crushed quartz, aluminum oxide",
+        "Mohs hardness": "7–9",
+        "Bulk density, g/L": "1200–1500",
+        "Specific surface area, m²/g": "1–3",
+        "Residue on 63 μm sieve, %": "≤0.5"
+      },
+      "properties": [],
+      "application": [
+        "Construction mixes",
+        "Paints and coatings"
+      ]
+    },
+    {
+      "id": 48,
+      "code": "TC-22",
+      "name": "Setting accelerator TC-22",
+      "category": "Specialty additives",
+      "description": "TC-22 is a setting and hardening accelerator based on calcium aluminate and carbonates for cement-based construction mixes. It significantly reduces initial and final setting times, enabling rapid load application and work under time-constrained conditions.",
+      "characteristics": {
+        "Appearance": "Gray fine powder",
+        "Moisture, %": "≤3.0",
+        "Bulk density, g/L": "800–1000",
+        "Chloride content (Cl−), %": "≤0.1",
+        "Acceleration effect (initial set)": "Reduction by 30–70%",
+        "pH (10% aqueous suspension)": "10.5–12.5"
+      },
+      "properties": [
+        "Fast drying"
+      ],
+      "application": [
+        "Construction mixes"
+      ]
+    },
+    {
+      "id": 49,
+      "code": "CL-33",
+      "name": "Coloring paste CL-33",
+      "category": "Specialty additives",
+      "description": "CL-33 is a highly concentrated universal water-based coloring paste for mass tinting of dry construction mixes (plasters, grouts, self-leveling floors) as well as water-dispersed paints. It offers high dispersibility and color strength and does not affect the primary properties of the material.",
+      "characteristics": {
+        "Appearance": "Viscous paste of specified color",
+        "Pigment content, %": "40–60",
+        "Viscosity (B-type viscometer), mPa·s": "5000–15000",
+        "pH": "7.0–9.0",
+        "Density, g/cm³": "1.2–1.8 (depending on color)",
+        "UV resistance (depending on pigment)": "High (inorganic pigments)"
+      },
+      "properties": [
+        "Enhanced UV resistance"
+      ],
+      "application": [
+        "Construction mixes",
+        "Paints and coatings"
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,212 @@
+.byonelists,
+.foundslist {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.disabled {
+pointer-events: none;
+}
+
+
+.hh_href img {
+  max-width: 25px;
+  margin-right: 8px;
+}
+
+.hh_href {
+  left: 0;
+  z-index: 9;
+  display: flex;
+}
+
+.hh_href {
+  color: #2F2F33 !important;
+  text-decoration: none;
+}
+
+.hh_href {
+	/* top: -53px; */
+	padding-right: 30px;
+	background-repeat: no-repeat;
+	background-image: url("../img/href_icon.svg");
+	background-position: right;
+	background-size: 24px;
+	display: flex;
+	align-items: center;
+	align-content: center;
+	/* position: absolute; */
+	max-width: 207px;
+	margin: 50px 0;
+}
+
+.opacity > * {
+	opacity: 0.7;
+	pointer-events: none;
+}
+
+.elemsexperence_rimg video {
+	max-width: 100%;
+}
+
+.select_sections {
+	cursor: pointer;
+}
+
+.goods_comparesin {
+	overflow-x: scroll;
+	position: relative;
+	display: block;
+}
+
+.linetitle {
+  position: sticky;
+  display: block;
+  left: 0;
+  background: #fff;
+  z-index: 9;
+  padding-left:24px;
+  min-width: 150px;
+}
+
+.goods_compares_list:not(.heads):nth-child(2n+1) .linetitle {
+	background: #f5f6fb;
+}
+
+.goods_compares_list {
+  position: relative;
+  min-width: 100%;
+}
+
+.overpopmenu.fixed {
+  transition: 1s;
+}
+
+.totop {
+  width: 48px;
+  height: 48px;
+  background-color: transparent;
+  transition: 0.5s;
+}
+
+.totop:hover {
+  opacity: 0.5;
+}
+
+.selection-button {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  background-color: transparent;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  z-index: 100;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.selection-button:hover {
+  opacity: 0.5;
+}
+
+
+@media (max-width: 1240px) {
+	
+	
+
+.hh_href {
+  top: 0;
+  margin-bottom: 15px;
+  margin-top: -10px;
+  position:static;
+  max-width: 202px;
+}
+
+
+}
+
+@media (max-width: 767px) {
+
+.hh_href {
+  font-size: 13px;
+}
+
+
+  .hh_href {
+    max-width: 160px;
+  }
+
+
+.hh_href {
+  padding-right: 22px;
+  background-size: 19px;
+}
+
+.hh_href img {
+
+  max-width: 19px;
+  margin-right: 5px;
+}
+	
+}
+
+@media (max-width: 575px) {
+	.linetitle {
+	  padding-left: 5px;
+	  font-size: 12px;
+	}
+
+	.linetitle_good {
+	  padding: 0 5px;
+	}
+
+	.linetitle_good.boldgood {
+	  font-size: 14px;
+	}
+
+	.goods_compares a.delfavitem {
+	  width: 20px;
+	  height: 20px;
+	}
+
+	.goods_compares a.delfavitem svg {
+	  max-height: 20px;
+	}
+
+  .linetitle_good {
+    font-size: 12px;
+  }
+
+	.goods_compares_list.heads {
+	  background: #fff;
+	}
+	
+	
+
+
+  .linetitle {
+    width: 153px;
+  }
+
+
+.linetitle {
+  flex-shrink: 0;
+  width: 90px;
+  min-width: 0;
+}
+
+
+
+.lisltcompr a {
+  padding: 10px 10px;
+}
+
+a.removesbysect {
+  padding: 10px;
+}
+
+}

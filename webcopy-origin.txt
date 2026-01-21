@@ -1,0 +1,1820 @@
+Uri: http://lekron.com/
+File Name: C:\Users\ASUS\Downloads\lekron.com\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/about/
+File Name: C:\Users\ASUS\Downloads\lekron.com\about\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/bitrix/cache/css/s1/lekron/page_6836faf1966ddedc72f8614979d220d1/page_6836faf1966ddedc72f8614979d220d1_v1.css?173023896823415
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\cache\css\s1\lekron\page_6836faf1966ddedc72f8614979d220d1\page_6836faf1966ddedc72f8614979d220d1_v1.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/cache/css/s1/lekron/page_9198173fa9b37d4c8187a7e9647e82b6/page_9198173fa9b37d4c8187a7e9647e82b6_v1.css?173023854127847
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\cache\css\s1\lekron\page_9198173fa9b37d4c8187a7e9647e82b6\page_9198173fa9b37d4c8187a7e9647e82b6_v1.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/cache/css/s1/lekron/page_c22fd0d83abb89f299c5bb94211b08a3/page_c22fd0d83abb89f299c5bb94211b08a3_v1.css?1730243668405
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\cache\css\s1\lekron\page_c22fd0d83abb89f299c5bb94211b08a3\page_c22fd0d83abb89f299c5bb94211b08a3_v1.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/cache/css/s1/lekron/page_e53903aa4cda8550442b7cb21c0f344d/page_e53903aa4cda8550442b7cb21c0f344d_v1.css?17302425192997
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\cache\css\s1\lekron\page_e53903aa4cda8550442b7cb21c0f344d\page_e53903aa4cda8550442b7cb21c0f344d_v1.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/cache/css/s1/lekron/template_6f48897626454849203a54aea83dab2b/template_6f48897626454849203a54aea83dab2b_v1.css?1730237643899
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\cache\css\s1\lekron\template_6f48897626454849203a54aea83dab2b\template_6f48897626454849203a54aea83dab2b_v1.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/cache/css/s1/lekron/template_a3b316b20ab2e6a8f8adc781a94cbbbf/template_a3b316b20ab2e6a8f8adc781a94cbbbf_v1.css?17302381541568
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\cache\css\s1\lekron\template_a3b316b20ab2e6a8f8adc781a94cbbbf\template_a3b316b20ab2e6a8f8adc781a94cbbbf_v1.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/css/main/font-awesome.css?170392762528777
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\css\main\font-awesome.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/css/main/font-awesome.min.css?170392762523748
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\css\main\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/css/main/themes/blue/style.min.css?1703927625331
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\css\main\themes\blue\style.min.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lekron.com/bitrix/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lekron.com/bitrix/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/bitrix/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://lekron.com/bitrix/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://lekron.com/bitrix/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://lekron.com/bitrix/js/main/core/core.min.js?1705870993223197
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\main\core\core.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/bitrix/js/main/core/core_fx.min.js?17039276259768
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\main\core\core_fx.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/bitrix/js/main/popup/dist/main.popup.bundle.min.css?170392762326598
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\main\popup\dist\main.popup.bundle.min.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/js/main/popup/dist/main.popup.bundle.min.js?170587099065824
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\main\popup\dist\main.popup.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?170393225022911
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\design-tokens\dist\ui.design-tokens.min.css
+Content Type: text/css
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-bold.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-bold.ttf
+Content Type: font/ttf
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-bold.woff
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-bold.woff
+Content Type: font/woff
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-light.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-light.ttf
+Content Type: font/ttf
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-light.woff
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-light.woff
+Content Type: font/woff
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-regular.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-regular.ttf
+Content Type: font/ttf
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-regular.woff
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-regular.woff
+Content Type: font/woff
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-semibold.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-semibold.ttf
+Content Type: font/ttf
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/opensans-semibold.woff
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\opensans-semibold.woff
+Content Type: font/woff
+
+Uri: http://lekron.com/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17039276222320
+File Name: C:\Users\ASUS\Downloads\lekron.com\bitrix\js\ui\fonts\opensans\ui.font.opensans.min.css
+Content Type: text/css
+
+Uri: http://lekron.com/carier/
+File Name: C:\Users\ASUS\Downloads\lekron.com\carier\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/contacts/
+File Name: C:\Users\ASUS\Downloads\lekron.com\contacts\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/experience/
+File Name: C:\Users\ASUS\Downloads\lekron.com\experience\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/experience/akriloviye-dispersii/
+File Name: C:\Users\ASUS\Downloads\lekron.com\experience\akriloviye-dispersii\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/experience/cellyulozniye/
+File Name: C:\Users\ASUS\Downloads\lekron.com\experience\cellyulozniye\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/experience/specializirovanniye/
+File Name: C:\Users\ASUS\Downloads\lekron.com\experience\specializirovanniye\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/laboratory/
+File Name: C:\Users\ASUS\Downloads\lekron.com\laboratory\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-1.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-2.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-3.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-4.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-5.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-6.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-7.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-8.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-9.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-10.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-11.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-12.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-13.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-14.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-15.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-16.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-17.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-18.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-19.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-20.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-21.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-22.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-23.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-24.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-25.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-26.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-27.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-28.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-29.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-30.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-31.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/custom.css?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\custom-32.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-1.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-2.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-3.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-4.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-5.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-6.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-7.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-8.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-9.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-10.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-11.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-12.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-13.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-14.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-15.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-16.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-17.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-18.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-19.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-20.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-21.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-22.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-23.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-24.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-25.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-26.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-27.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-28.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-29.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-30.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-31.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/hover.css?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\hover-32.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-1.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-2.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-3.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-4.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-5.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-6.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-7.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-8.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-9.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-10.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-11.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-12.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-13.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-14.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-15.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-16.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-17.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-18.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-19.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-20.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-21.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-22.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-23.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-24.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-25.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-26.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-27.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-28.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-29.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-30.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-31.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/main.css?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\main-32.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-1.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-2.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-3.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-4.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-5.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-6.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-7.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-8.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-9.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-10.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-11.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-12.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-13.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-14.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-15.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-16.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-17.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-18.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-19.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-20.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-21.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-22.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-23.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-24.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-25.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-26.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-27.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-28.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-29.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-30.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-31.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/media.css?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\media-32.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-1.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-2.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-3.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-4.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-5.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-6.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-7.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-8.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-9.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-10.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-11.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-12.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-13.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-14.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-15.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-16.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-17.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-18.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-19.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-20.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-21.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-22.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-23.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-24.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-25.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-26.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-27.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-28.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-29.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-30.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-31.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/css/mobile.css?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\css\mobile-32.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/img/arrow-down-right.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\arrow-down-right.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/arrow-down.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\arrow-down.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/barchart.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\barchart.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/bgcorier.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\bgcorier.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/bgleck.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\bgleck.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/bgre.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\bgre.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/cabel/Матовый_4_Общая.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\cabel\Матовый_4_Общая.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/chevron-down.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron-down.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/chevron-left.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron-left.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/chevron-left.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/chevron-right-white.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron-right-white.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/chevron-right.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/chevron-right1.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron-right1.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/chevron.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\chevron.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/documents.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\documents.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/documents_en.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\documents_en.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/filts1.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\filts1.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/HeadHunter_logo.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\HeadHunter_logo.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/href_icon.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\href_icon.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/logo.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logo.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/logo.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/logodancecolor.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logodancecolor.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/logowhite.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\logowhite.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/menuhead.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\menuhead.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/menu_cabel.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\menu_cabel.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/menu_cabel_red.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\menu_cabel_red.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/selection-icon.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\selection-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/totop-icon.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\totop-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/watermark.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\watermark.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/img/x-close.svg
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\x-close.svg
+Content Type: image/svg+xml
+
+Uri: http://lekron.com/local/media/img/x.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\img\x.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-1.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-2.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-3.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-4.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-5.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-6.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-7.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-8.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-9.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-10.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-11.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-12.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-13.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-14.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-15.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-16.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-17.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-18.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-19.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-20.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-21.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-22.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-23.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-24.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-25.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-26.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-27.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-28.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-29.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-30.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-31.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/custom.js?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\custom-32.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-1.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-2.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-3.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-4.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-5.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-6.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-7.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-8.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-9.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-10.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-11.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-12.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-13.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-14.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-15.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-16.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-17.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-18.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-19.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-20.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-21.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-22.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-23.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-24.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-25.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-26.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-27.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-28.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-29.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-30.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-31.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/filter.js?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\filter-32.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/jquery-2.2.4.min.js
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105925
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105949
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-1.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105950
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-2.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105951
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-3.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105952
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-4.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105953
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-5.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105954
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-6.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105955
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-7.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105956
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-8.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105957
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-9.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105958
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-10.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=105959
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-11.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110143
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-12.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110144
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-13.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110145
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-14.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110146
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-15.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110147
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-16.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110148
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-17.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110149
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-18.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110150
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-19.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110151
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-20.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110152
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-21.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110153
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-22.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110154
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-23.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110155
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-24.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110156
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-25.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110157
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-26.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110158
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-27.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110159
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-28.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110200
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-29.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110311
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-30.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110314
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-31.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/main.js?v=110317
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\main-32.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/slick/slick/slick.css
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\slick\slick\slick.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/js/slick/slick/slick.js
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\slick\slick\slick.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/js/swiper/swiper.min.css
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: http://lekron.com/local/media/js/swiper/swiper.min.js
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\js\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/media/mask/jquery.mask.js
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\media\mask\jquery.mask.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.element/.default/script.min.js?170392763360348
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.element\.default\script.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.section/prods/script.min.js?17039276335563
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.section\prods\script.min.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.smart.filter/prods/images/border_default.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.smart.filter\prods\images\border_default.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.smart.filter/prods/images/result_popup_left.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.smart.filter\prods\images\result_popup_left.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.smart.filter/prods/images/result_popup_right.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.smart.filter\prods\images\result_popup_right.png
+Content Type: image/png
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.smart.filter/prods/script.js?170621632721928
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.smart.filter\prods\script.js
+Content Type: application/javascript
+
+Uri: http://lekron.com/local/templates/lekron/components/bitrix/catalog.smart.filter/prods/themes/blue/images/active.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\local\templates\lekron\components\bitrix\catalog.smart.filter\prods\themes\blue\images\active.png
+Content Type: image/png
+
+Uri: http://lekron.com/privacy/
+File Name: C:\Users\ASUS\Downloads\lekron.com\privacy\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/1110-2/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\1110-2\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/2110-2/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\2110-2\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/3110-2/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\3110-2\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/58-35-i/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\58-35-i\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/63-34-o/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\63-34-o\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?arrFilter_206_2788221432=Y&set_filter=Показать
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-3.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?arrFilter_206_3510096238=Y&set_filter=Показать
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-1.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?arrFilter_206_945058907=Y&set_filter=Показать
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-2.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?set_filter=y
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-4.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?set_filter=y&arrFilter_206_2788221432=Y
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-7.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?set_filter=y&arrFilter_206_3510096238=Y
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-5.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/?set_filter=y&arrFilter_206_945058907=Y
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\index-6.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/compare/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\compare\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-138/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-138\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-140/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-140\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-214/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-214\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-238/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-238\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-240/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-240\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-38/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-38\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-40/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-40\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfk-44/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfk-44\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfl-138/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfl-138\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfl-55/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfl-55\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/hfs-903-or/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\hfs-903-or\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/in-30k-2/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\in-30k-2\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/it-105/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\it-105\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/lekron-tep-123-10-d/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\lekron-tep-123-10-d\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ngp-30-32/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ngp-30-32\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ngp-50-32/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ngp-50-32\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/nhf-113/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\nhf-113\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/nhf-214/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\nhf-214\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/nhf-55/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\nhf-55\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/omk-40/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\omk-40\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/on-m40/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\on-m40\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/pbvm-909-or-hf/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\pbvm-909-or-hf\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppi-20-28/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppi-20-28\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppi-50-30/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppi-50-30\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppi-50-32/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppi-50-32\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppi-ltx/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppi-ltx\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppo-20-35/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppo-20-35\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppo-20-40/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppo-20-40\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppo-50-32/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppo-50-32\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppo-50-35/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppo-50-35\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppo-ltx/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppo-ltx\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppv-28/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppv-28\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppv-30/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppv-30\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/ppv-ltx/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\ppv-ltx\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/tpe-102-55/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\tpe-102-55\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/tpe-102-70/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\tpe-102-70\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-113/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-113\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-138/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-138\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-140/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-140\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-214/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-214\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-38/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-38\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-40/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-40\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-44/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-44\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/product/vhf-55/
+File Name: C:\Users\ASUS\Downloads\lekron.com\product\vhf-55\index.htm
+Content Type: text/html
+
+Uri: http://lekron.com/upload/iblock/01f/v1tnomq4lha4tz2qaz3tgye4plcwvdwy/Frame 4762 (3).png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\01f\v1tnomq4lha4tz2qaz3tgye4plcwvdwy\Frame 4762 (3).png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/067/c6od50zvbmb1ev2ow6oqyejq2xdhifz4/e6LB.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\067\c6od50zvbmb1ev2ow6oqyejq2xdhifz4\e6LB.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/0d4/lu5gwrlhl4b7fp9j36z2l5aiz7fu8aqz/Rectangle 22 (1).jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\0d4\lu5gwrlhl4b7fp9j36z2l5aiz7fu8aqz\Rectangle 22 (1).jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/0f1/uc3x2n12kp7y5ykgdna40gxchsfmrr2o/pngwing 2 (1).png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\0f1\uc3x2n12kp7y5ykgdna40gxchsfmrr2o\pngwing 2 (1).png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/116/kp67kuxk3g3zsrfv61qhuf7azb959cjq/Cabel_2024_FFFFF.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\116\kp67kuxk3g3zsrfv61qhuf7azb959cjq\Cabel_2024_FFFFF.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/162/62a0t4y2avbh2pm3f3yvncluvxu6etg1/Plita.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\162\62a0t4y2avbh2pm3f3yvncluvxu6etg1\Plita.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/176/y0gxx083isr2a3gac1a0bo69cawzzjp4/Rectangle 24.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\176\y0gxx083isr2a3gac1a0bo69cawzzjp4\Rectangle 24.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/241/pk3ozc0nt47zbdncxrsjxvq8gpq5x9je/Rectangle 22.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\241\pk3ozc0nt47zbdncxrsjxvq8gpq5x9je\Rectangle 22.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/2c0/erpvw7ujtyr7l3smk2hsupq2ei26k1lw/aUKD.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\2c0\erpvw7ujtyr7l3smk2hsupq2ei26k1lw\aUKD.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/2dc/zhgbg6p28a0o8224ult3cwtncy3nkrll/7cQK.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\2dc\zhgbg6p28a0o8224ult3cwtncy3nkrll\7cQK.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/2ee/c4scbqdebpwwcytv1yvlbt2yslwzdr0r/Lekron old.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\2ee\c4scbqdebpwwcytv1yvlbt2yslwzdr0r\Lekron old.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/382/gtxxvfvnoyveh2fl29s8lm7vrea7xqdd/pngwing 2.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\382\gtxxvfvnoyveh2fl29s8lm7vrea7xqdd\pngwing 2.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/3a0/li50ws2so2i8xsvdi23j76bpxajjfzgj/bj8p.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\3a0\li50ws2so2i8xsvdi23j76bpxajjfzgj\bj8p.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/3b5/ishw4ds1l69492k4d6ijblcvt9le8vmk/Термоэластопласты.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\3b5\ishw4ds1l69492k4d6ijblcvt9le8vmk\Термоэластопласты.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/465/78at1k47lxf0w6b6bxrkw3tx46spfwp8/01Mn.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\465\78at1k47lxf0w6b6bxrkw3tx46spfwp8\01Mn.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/48c/9c4be1jbkka428w5519ydcuenx7u3dbt/thermometer-02.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\48c\9c4be1jbkka428w5519ydcuenx7u3dbt\thermometer-02.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/4d7/v1auopweqfim8ei2p9w4v22olq79764e/photo_2023-08-04_10-32-52 1.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\4d7\v1auopweqfim8ei2p9w4v22olq79764e\photo_2023-08-04_10-32-52 1.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/542/d2gesfovjyg2ox248wf523ned3ptg55w/ПВХ-пластикаты.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\542\d2gesfovjyg2ox248wf523ned3ptg55w\ПВХ-пластикаты.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/5f9/htj5w5n2rcrndrpcd605nl3u2wasbgjk/output(compress-video-online.com) (4) (1).jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\5f9\htj5w5n2rcrndrpcd605nl3u2wasbgjk\output(compress-video-online.com) (4) (1).jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/61b/df5u219ihedouyr06nl6ra8irlyok9z2/Cabel_2024_new0000.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\61b\df5u219ihedouyr06nl6ra8irlyok9z2\Cabel_2024_new0000.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/674/8o2w0tbo7251b5md2lc6xggm9u6cxy1g/wkdo.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\674\8o2w0tbo7251b5md2lc6xggm9u6cxy1g\wkdo.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/725/2dlxqh3zx56t52dwt9twl3k9dicjle8w/Frame 4762 (2).png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\725\2dlxqh3zx56t52dwt9twl3k9dicjle8w\Frame 4762 (2).png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/790/ldu1bzjhignvq8hy8xb40qkdgdcn54h5/image 4 1.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\790\ldu1bzjhignvq8hy8xb40qkdgdcn54h5\image 4 1.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/8aa/0bwjupa086rcdtzj60njdsuor03qe0pk/gUer.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\8aa\0bwjupa086rcdtzj60njdsuor03qe0pk\gUer.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/8de/6ecpaw78j65y72r202cwopwbbzguyn4m/Group 116.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\8de\6ecpaw78j65y72r202cwopwbbzguyn4m\Group 116.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/90d/uu109l27teqg1oy8hlphs4202b2ubeet/Rija.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\90d\uu109l27teqg1oy8hlphs4202b2ubeet\Rija.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/95b/c8qdlke5bq6mcwr73h19i9t6ctgy0he8/Безгалогенные полимерные кабельные композиции.mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\95b\c8qdlke5bq6mcwr73h19i9t6ctgy0he8\Безгалогенные полимерные кабельные композиции.mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/96f/cjydwiavxvd0h6s31zw2o1ed9saxnmaq/output(compress-video-online.com) (4).mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\96f\cjydwiavxvd0h6s31zw2o1ed9saxnmaq\output(compress-video-online.com) (4).mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/a85/fwrnter65wfl4nzemebm7n95p10jz1q3/ey7T.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\a85\fwrnter65wfl4nzemebm7n95p10jz1q3\ey7T.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/ab0/sdr4m2oknr6y7204xyr0g92kiqw6muiv/photo_2023-08-04_10-32-52-1.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\ab0\sdr4m2oknr6y7204xyr0g92kiqw6muiv\photo_2023-08-04_10-32-52-1.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/b2b/zzon007w0mk59n1lpihcf3xr3cd3dvk2/XY0B.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\b2b\zzon007w0mk59n1lpihcf3xr3cd3dvk2\XY0B.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/b93/rtibcwqz3kxlm3l473bhp1rpvx3ocj3x/30.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\b93\rtibcwqz3kxlm3l473bhp1rpvx3ocj3x\30.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/be2/b4pvkk3ajhp1nsjwtwp01p5mkvlowwat/1-min.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\be2\b4pvkk3ajhp1nsjwtwp01p5mkvlowwat\1-min.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/c33/z2nrn8ncu244aj3d05leo8z91xdmsult/pngwing 1 (1).png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\c33\z2nrn8ncu244aj3d05leo8z91xdmsult\pngwing 1 (1).png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/d40/5oemyornigz4969pgr46nsxy2biy0haf/Plita.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\d40\5oemyornigz4969pgr46nsxy2biy0haf\Plita.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/d7d/0a6hakdxpvhk60s5jkxpkb3n621og7q8/20.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\d7d\0a6hakdxpvhk60s5jkxpkb3n621og7q8\20.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/df3/2d7gn31di77djr626ms6ys350xxdv42u/nPJK.png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\df3\2d7gn31di77djr626ms6ys350xxdv42u\nPJK.png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/e0b/c9pnfttpg150zsl3e5ysef1sxo776o4u/Rectangle 21.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\e0b\c9pnfttpg150zsl3e5ysef1sxo776o4u\Rectangle 21.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/e69/qjngyrqmna6wca7mwprvfbofmmhywyn0/pngwing 2.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\e69\qjngyrqmna6wca7mwprvfbofmmhywyn0\pngwing 2.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/e92/nagdryij0vrzrduw65rwjb5p0tk21bht/Rectangle 20.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\e92\nagdryij0vrzrduw65rwjb5p0tk21bht\Rectangle 20.jpg
+Content Type: image/jpeg
+
+Uri: http://lekron.com/upload/iblock/f46/09iyuzs89u3k379ra5yahdjl7w6xvxoe/output(compress-video-online.com) (3).mp4
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\f46\09iyuzs89u3k379ra5yahdjl7w6xvxoe\output(compress-video-online.com) (3).mp4
+Content Type: video/mp4
+
+Uri: http://lekron.com/upload/iblock/fa7/2vd6wnx2ey4jr4wer68wbsvyewmjbpux/Frame 4762 (1).png
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\fa7\2vd6wnx2ey4jr4wer68wbsvyewmjbpux\Frame 4762 (1).png
+Content Type: image/png
+
+Uri: http://lekron.com/upload/iblock/fb1/vk8b0gftx9do2t533exgczwexd8ev3e8/pngwing 1.jpg
+File Name: C:\Users\ASUS\Downloads\lekron.com\upload\iblock\fb1\vk8b0gftx9do2t533exgczwexd8ev3e8\pngwing 1.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap
+File Name: C:\Users\ASUS\Downloads\lekron.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Users\ASUS\Downloads\lekron.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+File Name: C:\Users\ASUS\Downloads\lekron.com\bootstrap\3.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/105725260
+File Name: C:\Users\ASUS\Downloads\lekron.com\watch\105725260
+Content Type: image/gif
+
